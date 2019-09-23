@@ -23,7 +23,7 @@ public class App {
 		
 		System.out.println("Test");
 		
-		
+		System.out.println("Another test");
 		
 	}
 
