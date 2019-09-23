@@ -21,6 +21,8 @@ public class App {
 		camera1.doStuff();
 		camera1.shutdown();
 		
+		System.out.println("Test");
+		
 		
 		
 	}
